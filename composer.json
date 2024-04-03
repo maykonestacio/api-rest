@@ -1,0 +1,19 @@
+{
+    "name": "mayko-jds/dio-api-rest",
+    "autoload": {
+        "psr-4": {
+            "Config\\": "Config/",
+            "Controller\\Api\\": "Controller/Api/",
+            "Model\\": "Model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maykon-jds",
+            "email": "maykondias2001@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/php-timer": "^6.0"
+    }
+}
